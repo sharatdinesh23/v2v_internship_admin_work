@@ -15,7 +15,7 @@ python main.py
 
 | id | name | number | location | course | mode | email | status |
 |---:|---|---:|---|---|---|---|---|
-| 1 | Aadesh Dnyaneshwar Pondhekar | 7498873004 | Murbad | Offline Python Full Stack Development | Offline |  |  |	
+| 1 | Name of the student | phone number | location of the student | Offline Python Full Stack Development | Offline |  |  |	
 
 3. save the file and close the file and then 
 4. Upload the file and then click the button to update it 
